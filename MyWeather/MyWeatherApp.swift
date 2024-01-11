@@ -2,7 +2,7 @@
 //  MyWeatherApp.swift
 //  MyWeather
 //
-//  Created by ivan ruwido  on 11.01.24.
+//  Created by ivan trj  on 11.01.24.
 //
 
 import SwiftUI
